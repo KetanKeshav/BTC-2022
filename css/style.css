@@ -2488,6 +2488,29 @@ h3 {
   color: #fff !important;
 }
 
+footer .footer_social{
+  list-style:none;
+  padding:0;
+  margin:0
+}
+
+footer .footer_social li{
+  display:inline-block;
+  margin:5px
+}
+
+footer .footer_social li a{
+  display:block;
+  border-radius:50px;
+  padding:5px 0;
+  font-size:20px;
+  width:35px;
+  height:35px;
+}
+footer .footer_social li a:hover{
+  color:#000;
+}
+
 /* line 1, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_bradcam.scss */
 .bradcam_bg {
   background-image: url(../img/banner/breadcam_bg.png);

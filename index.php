@@ -128,7 +128,7 @@
                 <div class="col-xl-5 col-md-6">
                     <div class="single_speaker">
                         <div class="speaker_thumb">
-                            <img src="img/speakers/1.png" alt="">
+                            <img src="img/speakers/dummy.png" alt="">
                             <div class="hover_overlay">
                                 <div class="social_icon">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -138,13 +138,13 @@
                             </div>
                         </div>
                         <div class="speaker_name text-center">
-                            <h3>Jonson Miller</h3>
-                            <p>Creative Director</p>
+                            <h3>Name</h3>
+                            <p>Designation</p>
                         </div>
                     </div>
                     <div class="single_speaker">
                         <div class="speaker_thumb">
-                            <img src="img/speakers/3.png" alt="">
+                            <img src="img/speakers/dummy.png" alt="">
                             <div class="hover_overlay">
                                 <div class="social_icon">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -154,15 +154,15 @@
                             </div>
                         </div>
                         <div class="speaker_name text-center">
-                            <h3>Albert Jackey</h3>
-                            <p>Product Designer</p>
+                            <h3>Name</h3>
+                            <p>Designation</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-5 offset-xl-2 col-md-6">
                     <div class="single_speaker">
                         <div class="speaker_thumb">
-                            <img src="img/speakers/2.png" alt="">
+                            <img src="img/speakers/dummy.png" alt="">
                             <div class="hover_overlay">
                                 <div class="social_icon">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -172,13 +172,13 @@
                             </div>
                         </div>
                         <div class="speaker_name text-center">
-                            <h3>Marked Macau</h3>
-                            <p>UI/UX Designer</p>
+                            <h3>Name</h3>
+                            <p>Designation</p>
                         </div>
                     </div>
                     <div class="single_speaker">
                         <div class="speaker_thumb">
-                            <img src="img/speakers/1.png" alt="">
+                            <img src="img/speakers/dummy.png" alt="">
                             <div class="hover_overlay">
                                 <div class="social_icon">
                                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -188,8 +188,8 @@
                             </div>
                         </div>
                         <div class="speaker_name text-center">
-                            <h3>Kelvin Cooper</h3>
-                            <p>Art Director</p>
+                            <h3>Name</h3>
+                            <p>Designation</p>
                         </div>
                     </div>
                 </div>
@@ -199,7 +199,7 @@
     <!-- speakers_end-->
 
     <!-- event_area_start -->
-    <div class="event_area">
+    <!-- <div class="event_area">
         <h1 class="vr_text d-none d-lg-block">Event Schedule</h1>
         <div class="container">
             <div class="double_line">
@@ -310,12 +310,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- event_area_end -->
 
 
     <!-- resister_book_start -->
-    <div class="resister_book resister_bg_1">
+    <!-- <div class="resister_book resister_bg_1">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -327,11 +327,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- resister_book_end -->
 
     <!-- brand_area_start -->
-    <div class="brand_area">
+    <!-- <div class="brand_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -358,11 +358,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- brand_area_end -->
 
     <!-- faq_area_Start -->
-    <div class="faq_area">
+    <!-- <div class="faq_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -443,7 +443,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- faq_area_end -->
 
     <?php include 'includes/footer.php'; ?>

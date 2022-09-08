@@ -6,20 +6,7 @@
     <div class="footer_top">
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-md-4 col-lg-4">
-                    <div class="footer_widget">
-                        <h3 class="footer_title">
-                            Follow Us
-                        </h3>
-                        <ul>
-                            <li><a target="_blank" href="#">Facebook</a></li>
-                            <li><a target="_blank" href="#">Twitter</a></li>
-                            <li><a target="_blank" href="#">Instagram</a></li>
-                            <li><a target="_blank" href="#">Youtube</a></li>
-                        </ul>
-
-                    </div>
-                </div>
+                <!-- 
                 <div class="col-xl-4 col-md-4 col-lg-4">
                     <div class="footer_widget">
                         <h3 class="footer_title">
@@ -44,6 +31,81 @@
 
                         </p>
                     </div>
+                </div> -->
+                <div class="col-xl-3 col-md-3 col-lg-3">
+                    <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Get In Touch
+                            </h3>
+                            <img src="img/footer/footer_logo.png" style="width: 100%;" alt="">
+                            <ul class="footer_social">
+                                <li>
+                                    <a href="https://www.linkedin.com/company/ieee-bangalore-section"><i class="ti-linkedin"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.facebook.com/IEEEBangaloreSection/"><i class="ti-facebook"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/ieee_section"><i class="ti-twitter"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.instagram.com/ieeebangalore/"><i class="ti-instagram"></i></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.youtube.com/channel/UCP5O7GrQaAgAPjvNIRhuiyQ"><i class="ti-youtube"></i></a>
+                                </li>
+                            </ul>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Connect with IEEE
+                            </h3>
+                        <ul>
+                            <li><a href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec">IEEE
+                                    Collabratec</a></li>
+                            <li><a href="https://ieee.taleo.net/careersection/2/jobsearch.ftl?utm_source=mf&utm_campaign=taleo-jobs&utm_medium=footer&utm_term=taleo-jobs%20at%20ieee">Careers
+                                    at IEEE us</a></li>
+                            <li><a href="https://www.ieee.org/about/news/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=newsroom">IEEE
+                                    Newsroom</a></li>
+                            <li><a href="https://www.ieee.org/about/news/media-kit/media-kit-index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=media-kit">IEEE
+                                    Media Kit</a></li>
+                            <li><a href="https://iln.ieee.org/public/TrainingCatalog.aspx">IEEE Learning Network</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3">
+                    <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Membership
+                            </h3>
+                        <ul>
+                            <li><a href="https://www.ieee.org/membership/join/index.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=join">Join</a>
+                            </li>
+                            <li><a href="https://www.ieee.org/membership/renew.html?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=renew">Renew</a>
+                            </li>
+                            <li><a href="https://www.ieee.org/membership/benefits/index.html">Benefits</a></li>
+                            <li><a href="https://ieee-collabratec.ieee.org/?utm_source=dhtml_footer&utm_medium=hp&utm_campaign=collabratec-membership-list">IEEE
+                                    Collabratec</a></li>
+                            <li><a href="https://ieeebangalore.org/guide-to-join-ieee/">Guide to Join IEEE</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-12 col-md-3 ">
+                    <div class="footer_widget">
+                            <h3 class="footer_title">
+                                Quick Links
+                            </h3>
+                        <ul>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About-Us</a></li>
+                            <li><a href="#">Registrations</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
@@ -54,11 +116,9 @@
             <div class="row">
                 <div class="col-xl-12">
                     <p class="copy_right text-center">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        Copyright &copy;<script>
+                         &copy;<script>
                             document.write(new Date().getFullYear());
-                        </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </script> - IEEE Bangalore Section | All rights reserved 
                     </p>
                 </div>
             </div>

@@ -16,12 +16,12 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a class="active" href="index.html">Home</a></li>
-                                        <li><a href="Speakers.html">Speakers</a></li>
-                                        <li><a href="Schedule.html">About Us</a></li>
-                                        <li><a href="Schedule.html">Schedule</a></li>
-                                        <li><a href="Venue.html">Registration</a></li>
-                                        <li><a href="Venue.html">WIE Global Summit</a></li>
-                                        <li><a href="Venue.html">YP Global Summit</a></li>
+                                        <li><a href="#">Speakers</a></li>
+                                        <li><a href="#">About Us</a></li>
+                                        <li><a href="#">Schedule</a></li>
+                                        <li><a href="#">Registration</a></li>
+                                        <!-- <li><a href="Venue.html">WIE Global Summit</a></li>
+                                        <li><a href="Venue.html">YP Global Summit</a></li> -->
                                         <!-- <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="elements.html">elements</a></li>
