@@ -65,7 +65,7 @@
     <!-- slider_area_end -->
 
     <!-- about_area_start -->
-    <div class="about_area">
+    <div id="about" class="about_area">
         <div class="shape-1 d-none d-xl-block">
             <img src="img/about/shap1.png" alt="">
         </div>
@@ -110,7 +110,7 @@
     <!-- about_area_end -->
 
     <!-- speakers_start -->
-    <div class="speakers_area">
+    <div id="speakers" class="speakers_area">
         <h1 class="horizontal_text d-none d-lg-block">
             Speakers
         </h1>
