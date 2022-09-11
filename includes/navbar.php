@@ -15,10 +15,11 @@
                             <div class="main-menu  d-none d-lg-block">
                                 <nav>
                                     <ul id="navigation">
-                                        <li><a class="active" href="index.php">Home</a></li>
+                                        <li><a <?php if($page=='index') echo 'class="active"' ?> href="index.php">Home</a></li>
                                         <li><a href="index.php#speakers">Speakers</a></li>
                                         <li><a href="index.php#about">About Us</a></li>
                                         <li><a href="#">Schedule</a></li>
+                                        <li><a <?php if($page=='venue') echo 'class="active"' ?> href="venue.php">Venue</a></li>
                                         <li><a href="#">Registration</a></li>
                                         <!-- <li><a href="Venue.html">WIE Global Summit</a></li>
                                         <li><a href="Venue.html">YP Global Summit</a></li> -->
