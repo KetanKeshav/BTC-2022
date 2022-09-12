@@ -29,7 +29,7 @@
                                     CONCLAVE 2022<br>
                                 </h3>
                                 <div class="single_date">
-                                    <span>Metaverse for a Sustainable World</span>
+                                    <span>Metaverse</span>
                                 </div>
                                 <a href="#" style="margin-top: 10px;" class="boxed-btn-white">Register Now!</a>
                             </div>
