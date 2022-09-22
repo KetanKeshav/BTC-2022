@@ -16,7 +16,8 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a <?php if($page=='index') echo 'class="active"' ?> href="index.php">Home</a></li>
-                                        <li><a href="index.php#speakers">Speakers</a></li>
+                                        <li><a <?php if($page=='oc') echo 'class="active"' ?> href="oc.php">Organizing Committee</a></li>
+                                        <li><a <?php if($page=='speakers') echo 'class="active"' ?> href="speakers.php">Speakers</a></li>
                                         <li><a href="index.php#about">About Us</a></li>
                                         <li><a href="#">Schedule</a></li>
                                         <li><a <?php if($page=='venue') echo 'class="active"' ?> href="venue.php">Venue</a></li>
