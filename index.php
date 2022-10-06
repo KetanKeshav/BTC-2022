@@ -31,7 +31,7 @@
                                 <div class="single_date">
                                     <span>Metaverse</span>
                                 </div>
-                                <a href="#" style="margin-top: 10px;" class="boxed-btn-white">Register Now!</a>
+                                <a href="registration.php" style="margin-top: 10px;" class="boxed-btn-white">Register Now!</a>
                             </div>
                         </div>
                     </div>
