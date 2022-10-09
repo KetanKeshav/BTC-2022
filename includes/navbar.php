@@ -19,7 +19,7 @@
                                         <li><a <?php if($page=='oc') echo 'class="active"' ?> href="oc.php">Organizing Committee</a></li>
                                         <li><a <?php if($page=='speakers') echo 'class="active"' ?> href="speakers.php">Speakers</a></li>
                                         <li><a href="index.php#about">About Us</a></li>
-                                        <li><a href="#">Schedule</a></li>
+                                        <li><a <?php if($page=='schedule') echo 'class="active"' ?> href="schedule.php">Schedule</a></li>
                                         <li><a <?php if($page=='venue') echo 'class="active"' ?> href="venue.php">Venue</a></li>
                                         <li><a <?php if($page=='registration') echo 'class="active"' ?> href="registration.php">Registration</a></li>
                                         <!-- <li><a href="Venue.html">WIE Global Summit</a></li>
