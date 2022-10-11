@@ -1235,7 +1235,20 @@ h3 {
   text-transform: capitalize;
   line-height: 100px;
   color: #fff;
-  margin-bottom: 66px;
+  margin-bottom: 45px;
+}
+.slider_area .title_text h2 {
+  font-size: 70px;
+  font-weight: 700;
+  line-height: 70px;
+  color: #fff;
+  margin-bottom: 25px;
+}
+.slider_area .title_text h1 {
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 40px;
+  color: #fff;
 }
 
 @media (max-width: 767px) {
@@ -1243,7 +1256,10 @@ h3 {
   .slider_area .title_text h3 {
     font-size: 36px;
     line-height: 43px;
-    margin-bottom: 30px;
+  }
+  .slider_area .title_text h2 {
+    font-size: 18px;
+    line-height: 30px;
   }
 }
 
@@ -1254,6 +1270,10 @@ h3 {
     line-height: 55px;
     margin-bottom: 30px;
   }
+  .slider_area .title_text h2 {
+    font-size: 36px;
+    line-height: 45px;
+  }
 }
 
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -1262,6 +1282,10 @@ h3 {
     font-size: 60px;
     line-height: 70px;
     margin-bottom: 20px;
+  }
+  .slider_area .title_text h2 {
+    font-size: 45px;
+    line-height: 50px;
   }
 }
 
@@ -1676,7 +1700,6 @@ h3 {
 .speakers_area {
   padding-top: 100px;
   position: relative;
-  padding-bottom: 105px;
 }
 
 /* line 5, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_speakers.scss */
@@ -1706,6 +1729,10 @@ h3 {
     padding-bottom: 0px;
     padding-top: 50px;
   }
+  .training-section {
+    padding-bottom: 0px;
+    padding-top: 50px;
+  }
 }
 
 /* line 20, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_speakers.scss */
@@ -1718,9 +1745,21 @@ h3 {
   color: #F3F3F3;
 }
 
+.training-section .horizontal_text {
+  font-size: 120px;
+  font-weight: 700;
+  position: absolute;
+  right: 0;
+  top: 100px;
+  color: #F3F3F3;
+}
+
 @media (min-width: 992px) and (max-width: 1200px) {
   /* line 20, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_speakers.scss */
   .speakers_area .horizontal_text {
+    font-size: 90px;
+  }
+  .training-section .horizontal_text {
     font-size: 90px;
   }
 }
@@ -5831,6 +5870,33 @@ h6 {
 .blog_part .single-home-blog .card ul li span {
   margin-right: 10px;
   font-size: 12px;
+}
+
+.ts{
+  font-size: 35px;
+  font-weight: 700;
+  text-transform: capitalize;
+  line-height: 100px;
+  color: #000;
+  margin-bottom: 45px;
+}
+
+@media (max-width: 767px) {
+  .ts{
+    font-size: 36px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .ts {
+    font-size: 46px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .ts {
+    font-size: 60px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
