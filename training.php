@@ -236,7 +236,12 @@
                 <tr>
                     <th scope="row">IEEE STUDENT MEMBER</th>
                     <td>FREE</td>
-                    <td>Training Only (online)</td>
+                    <td>Metaverse Training Only (online) - Basic</td>
+                </tr>
+                <tr>
+                    <th scope="row">IEEE STUDENT MEMBER</th>
+                    <td>FREE</td>
+                    <td>Metaverse Training Only (online) - Intermediate</td>
                 </tr>
                 <!-- <tr>
                     <th scope="row"><strike>IEEE STUDENT MEMBER</strike></th>
@@ -246,7 +251,12 @@
                 <tr>
                     <th scope="row">NON-IEEE STUDENT MEMBER</th>
                     <td>500 INR</td>
-                    <td>Training Only (online)</td>
+                    <td>Metaverse Training Only (online) - Basic</td>
+                </tr>
+                <tr>
+                    <th scope="row">NON-IEEE STUDENT MEMBER</th>
+                    <td>500 INR</td>
+                    <td>Metaverse Training Only (online) - Intermediate</td>
                 </tr>
                 <!-- <tr>
                     <th scope="row"><strike>NON-IEEE STUDENT MEMBER</strike></th>
