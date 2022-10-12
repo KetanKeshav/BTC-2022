@@ -238,21 +238,21 @@
                     <td>FREE</td>
                     <td>Training Only (online)</td>
                 </tr>
-                <tr>
+                <!-- <tr>
                     <th scope="row"><strike>IEEE STUDENT MEMBER</strike></th>
                     <td><strike>200 INR</strike></td>
                     <td><strike>Training + Day 2</strike></td>
-                </tr>
+                </tr> -->
                 <tr>
                     <th scope="row">NON-IEEE STUDENT MEMBER</th>
-                    <td>FREE</td>
+                    <td>500 INR</td>
                     <td>Training Only (online)</td>
                 </tr>
-                <tr>
+                <!-- <tr>
                     <th scope="row"><strike>NON-IEEE STUDENT MEMBER</strike></th>
                     <td><strike>500 INR</strike></td>
                     <td><strike>Training + Day 2</strike></td>
-                </tr>
+                </tr> -->
                 <tr>
                     <th scope="row">IEEE PROFESSIONAL MEMBERS</th>
                     <td>2000 INR</td>
