@@ -101,7 +101,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Deepa Shenoy</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
@@ -117,7 +117,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Aloknath De</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>
@@ -151,7 +151,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Prasant Misra</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
@@ -167,7 +167,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>George Koilpillai</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
@@ -183,7 +183,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Sudarsan S. D.</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
@@ -199,7 +199,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Suma V.</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>
@@ -233,7 +233,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Kumudhini Raveendran</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
@@ -249,7 +249,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Aishwarya Balaji</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>
@@ -283,7 +283,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Debdeeep Sarkar</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
@@ -299,7 +299,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Chengappa M.R.</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>
@@ -333,7 +333,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Abhishek Appaji</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>
@@ -367,7 +367,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Chengappa M.R.</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
@@ -383,7 +383,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Ketan Keshav</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>
@@ -417,7 +417,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Soma Pandey</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
@@ -433,7 +433,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Neha Kumari</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>
@@ -467,7 +467,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Kishore Sharma</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>
@@ -501,12 +501,12 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Ajit Bopardikar</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-6 single_speaker">
                     <div class="speaker_thumb">
-                        <img src="img/speakers/dummy.png" alt="">
+                        <img src="img/oc/navin.png" alt="">
                         <div class="hover_overlay">
                             <div class="social_icon">
                                 <a href="#"><i class="fa fa-facebook"></i></a>
@@ -517,7 +517,7 @@
                     </div>
                     <div class="speaker_name text-center">
                         <h3>Naveen Kumar</h3>
-                        <p>Designation</p>
+                        <!-- <p>Designation</p> -->
                     </div>
                 </div>
             </div>

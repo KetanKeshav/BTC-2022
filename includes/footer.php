@@ -101,9 +101,12 @@
                                 Quick Links
                             </h3>
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">About-Us</a></li>
-                            <li><a href="#">Registrations</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="index.php#about">About-Us</a></li>
+                            <li><a href="registration.php">Registrations</a></li>
+                            <li><a href="oc.php">Organizing Committee</a></li>
+                            <li><a href="schedule.php">Schedule</a></li>
+                            <li><a href="training.php">Metaverse Training</a></li>
                         </ul>
                     </div>
                 </div>
