@@ -59,6 +59,33 @@
     </div>
     <!-- slider_area_end -->
 
+    <div class="speakers_area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="serction_title_large mb-95">
+                        <h3>
+                            Training Partners
+                        </h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xl-6 col-lg-6">
+            <div class="date">
+                <img class="img-fluid" src="./img/training/Logo_black.png" width="100%">
+            </div>
+        </div>
+        <div class="col-xl-6 col-lg-6">
+            <div class="date">
+                <img class="img-fluid" src="./img/training/yp-logo.png" width="100%">
+            </div>
+        </div>
+    </div>
+
 
     <!-- trainning schedule -->
     <div class="speakers_area">
@@ -76,12 +103,17 @@
     </div>
 
     <div class="row">
-        <div class="col-xl-3 col-lg-3">
+        <div class="col-xl-2 col-lg-2">
             <div class="date">
                 <img class="img-fluid" src="./img/training/Logo_black.png" width="100%">
             </div>
         </div>
-        <div class="col-xl-9 col-lg-9">
+        <div class="col-xl-2 col-lg-2">
+            <div class="date">
+                <img class="img-fluid" src="./img/training/yp-logo.png" width="100%">
+            </div>
+        </div>
+        <div class="col-xl-8 col-lg-8">
             <h3 class="ts">| NOV 4 | ONLINE | PARALLEL SESSON | 4 HOURS</h3>
         </div>
     </div>
@@ -164,12 +196,17 @@
     </div>
 
     <div class="row">
-        <div class="col-xl-3 col-lg-3">
+        <div class="col-xl-2 col-lg-2">
             <div class="date">
                 <img class="img-fluid" src="./img/training/Logo_black.png" width="100%">
             </div>
         </div>
-        <div class="col-xl-9 col-lg-9">
+        <div class="col-xl-2 col-lg-2">
+            <div class="date">
+                <img class="img-fluid" src="./img/training/yp-logo.png" width="100%">
+            </div>
+        </div>
+        <div class="col-xl-8 col-lg-8">
             <h3 class="ts">| NOV 4 | ONLINE | PARALLEL SESSON | 4 HOURS</h3>
         </div>
     </div>
