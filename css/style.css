@@ -2202,6 +2202,8 @@ h3 {
   /* line 60, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_event.scss */
   .event_area .date h3 {
     margin-bottom: 20px;
+    font-size: 18px;
+    margin-left: 15px;
   }
 }
 
@@ -5883,7 +5885,8 @@ h6 {
 
 @media (max-width: 767px) {
   .ts{
-    font-size: 36px;
+    font-size: 16px;
+    margin-left: 15px;
   }
 }
 

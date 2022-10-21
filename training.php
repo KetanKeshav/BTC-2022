@@ -76,12 +76,12 @@
     <div class="row">
         <div class="col-xl-6 col-lg-6">
             <div class="date">
-                <img class="img-fluid" src="./img/training/Logo_black.png" width="100%">
+                <img class="img-fluid" src="./img/training/Logo_black.png" width="90%">
             </div>
         </div>
         <div class="col-xl-6 col-lg-6">
             <div class="date">
-                <img class="img-fluid" src="./img/training/yp-logo.png" width="100%">
+                <img class="img-fluid" src="./img/training/yp-logo.png" width="90%">
             </div>
         </div>
     </div>
@@ -137,12 +137,12 @@
                                 </div>
                                 <p>
                                 <ul>
-                                    <li>What is web3? Basics of Blockchain</li>
-                                    <li>Create your own Metamask wallet</li>
-                                    <li>Popular web3 buzzwords</li>
-                                    <li>Hands on coding session - write your first smart contract / introduction to solidity</li>
-                                    <li>The role of community and the opportunities it offers</li>
-                                    <li>Q/A and networking</li>
+                                    <li> - What is web3? Basics of Blockchain</li>
+                                    <li> - Create your own Metamask wallet</li>
+                                    <li> - Popular web3 buzzwords</li>
+                                    <li> - Hands on coding session - write your first smart contract / introduction to solidity</li>
+                                    <li> - The role of community and the opportunities it offers</li>
+                                    <li> - Q/A and networking</li>
                                 </ul>
                                 </p>
                             </div>
@@ -164,12 +164,12 @@
                             </div>
                             <p>
                             <ul>
-                                <li>Smart contract-based Dapps</li>
-                                <li>L1 & L2 blockchain</li>
-                                <li>EVM - Ethereum Virtual Machine</li>
-                                <li>ZK roll ups</li>
-                                <li>Non EVM chains</li>
-                                <li>Ethereum token Standard</li>
+                                <li> - Smart contract-based Dapps</li>
+                                <li> - L1 & L2 blockchain</li>
+                                <li> - EVM - Ethereum Virtual Machine</li>
+                                <li> - ZK roll ups</li>
+                                <li> - Non EVM chains</li>
+                                <li> - Ethereum token Standard</li>
                             </ul>
                             </p>
                         </div>
@@ -218,25 +218,25 @@
                 <div class="row">
                     <div class="col-xl-12 col-lg-12">
                         <div class="date">
-                            <h3>Learning opportunities to become a web3 developer</h3>
+                            <h3> - Learning opportunities to become a web3 developer</h3>
                         </div>
                         <div class="date">
-                            <h3>Internship/Job opportunities to ideal candidates</h3>
+                            <h3> - Internship/Job opportunities to ideal candidates</h3>
                         </div>
                         <div class="date">
-                            <h3>Early bird access to Global events</h3>
+                            <h3> - Early bird access to Global events</h3>
                         </div>
                         <div class="date">
-                            <h3>Access to LUMOS exclusive Discord Server</h3>
+                            <h3> - Access to LUMOS exclusive Discord Server</h3>
                         </div>
                         <div class="date">
-                            <h3>Outreach to LUMOS network worldwide</h3>
+                            <h3> - Outreach to LUMOS network worldwide</h3>
                         </div>
                         <div class="date">
-                            <h3>Access to leading mentors in the global web3 ecosystem</h3>
+                            <h3> - Access to leading mentors in the global web3 ecosystem</h3>
                         </div>
                         <div class="date">
-                            <h3>Access to Lumos hackathon</h3>
+                            <h3> - Access to Lumos hackathon</h3>
                         </div>
                         <div class="date">
                             <h3>&nbsp</h3>
