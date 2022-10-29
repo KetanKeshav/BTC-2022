@@ -127,10 +127,13 @@
             </div>
             <div class="row">
             <div class="row">
-                <img class="img-fluid" src="./img/speakers/sp1.jpg">
+                <img class="img-fluid" src="./img/speakers/sp1.png">
             </div>
             <div class="row">
-                <img class="img-fluid" src="./img/speakers/sp2.jpg">
+                <img class="img-fluid" src="./img/speakers/sp2.png">
+            </div>
+            <div class="row">
+                <img class="img-fluid" src="./img/speakers/sp2.png">
             </div>
             </div>
         </div>

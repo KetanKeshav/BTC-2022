@@ -62,7 +62,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSfmarwX67rgJmz1S0AUkDkc0-kYqN3t_s8_WWwxIb0KRX0NXBvwDJlYbQzQ4Flw/pubhtml?gid=867142418&single=true" frameborder="0" style="width:100%;" height="750"></iframe>
+                  <img class="img-fluid" src="./img/schedule.png">
                 </div>
             </div>
         </div>
