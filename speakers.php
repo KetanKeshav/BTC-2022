@@ -79,7 +79,7 @@
                 <img class="img-fluid" src="./img/speakers/sp2.png">
             </div>
             <div class="row">
-                <img class="img-fluid" src="./img/speakers/sp2.png">
+                <img class="img-fluid" src="./img/speakers/sp3.png">
             </div>
         </div>
     </div>
