@@ -248,7 +248,7 @@
                         </div>
                     </div>
                     <div class="speaker_name text-center">
-                        <h3>Supriya Kamthaniya</h3>
+                        <h3>Aishwarya Balaji</h3>
                         <!-- <p>Designation</p> -->
                     </div>
                 </div>
