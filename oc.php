@@ -248,7 +248,23 @@
                         </div>
                     </div>
                     <div class="speaker_name text-center">
-                        <h3>Aishwarya Balaji</h3>
+                        <h3>Supriya Kamthaniya</h3>
+                        <!-- <p>Designation</p> -->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6 single_speaker">
+                    <div class="speaker_thumb">
+                        <img src="img/oc/supriya.jpg" alt="">
+                        <div class="hover_overlay">
+                            <div class="social_icon">
+                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-instagram"></i></a>
+                                <a href="#"><i class="fa fa-twitter"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="speaker_name text-center">
+                        <h3>Supriya Kamthaniya</h3>
                         <!-- <p>Designation</p> -->
                     </div>
                 </div>
