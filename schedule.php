@@ -54,7 +54,7 @@
                 </div>
             </div>
         </div>
-        <br><br><br><br><br><br>
+        <br><br><br><br><br>
         <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                   <img class="img-fluid" src="./img/schedule.png">
         </div>
