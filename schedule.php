@@ -10,6 +10,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <?php include "includes/header.php"; ?>
+    <style>
+        #bgclr {
+        background-color: #ff5e13;
+        }
+    </style>
 </head>
 
 <body>
@@ -58,7 +63,7 @@
     <!-- slider_area_end -->
 
     <!-- ================ contact section start ================= -->
-    <section class="contact-section">
+    <section class="contact-section" id="bgclr">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
