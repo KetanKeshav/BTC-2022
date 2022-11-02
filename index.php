@@ -110,6 +110,37 @@
     </div>
     <!-- about_area_end -->
 
+        <!-- brand_area_start -->
+        <div class="brand_area">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="brand_active owl-carousel">
+                        <div class="single_brand text-center">
+                            <img src="img/barnd/1.png" alt="">
+                        </div>
+                        <div class="single_brand text-center">
+                            <img src="img/barnd/2.png" alt="">
+                        </div>
+                        <div class="single_brand text-center">
+                            <img src="img/barnd/3.png" alt="">
+                        </div>
+                        <div class="single_brand text-center">
+                            <img src="img/barnd/4.png" alt="">
+                        </div>
+                        <div class="single_brand text-center">
+                            <img src="img/barnd/5.png" alt="">
+                        </div>
+                        <!-- <div class="single_brand text-center">
+                            <img src="img/barnd/6.png" alt="">
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- brand_area_end -->
+
     <!-- speakers_start -->
     <div id="speakers" class="speakers_area">
         <h1 class="horizontal_text d-none d-lg-block">
@@ -273,36 +304,6 @@
     </div> -->
     <!-- resister_book_end -->
 
-    <!-- brand_area_start -->
-    <!-- <div class="brand_area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="brand_active owl-carousel">
-                        <div class="single_brand text-center">
-                            <img src="img/barnd/1.png" alt="">
-                        </div>
-                        <div class="single_brand text-center">
-                            <img src="img/barnd/2.png" alt="">
-                        </div>
-                        <div class="single_brand text-center">
-                            <img src="img/barnd/3.png" alt="">
-                        </div>
-                        <div class="single_brand text-center">
-                            <img src="img/barnd/4.png" alt="">
-                        </div>
-                        <div class="single_brand text-center">
-                            <img src="img/barnd/5.png" alt="">
-                        </div>
-                        <div class="single_brand text-center">
-                            <img src="img/barnd/6.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- brand_area_end -->
 
     <!-- faq_area_Start -->
     <!-- <div class="faq_area">
