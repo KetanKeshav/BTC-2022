@@ -111,7 +111,7 @@
     <!-- about_area_end -->
 
         <!-- brand_area_start -->
-        <div class="brand_area">
+        <!-- <div class="brand_area">
         <div class="container">
             <div class="row">
                 <div class="col-xl-12">
@@ -131,14 +131,14 @@
                         <div class="single_brand text-center">
                             <img src="img/barnd/5.png" alt="">
                         </div>
-                        <!-- <div class="single_brand text-center">
+                        <div class="single_brand text-center">
                             <img src="img/barnd/6.png" alt="">
-                        </div> -->
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- brand_area_end -->
 
     <!-- speakers_start -->
