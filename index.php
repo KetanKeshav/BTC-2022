@@ -141,6 +141,30 @@
     </div> -->
     <!-- brand_area_end -->
 
+    <!-- sponsors_start -->
+    <div id="speakers" class="speakers_area">
+        <h1 class="horizontal_text d-none d-lg-block">
+            Sponsors
+        </h1>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="serction_title_large mb-95">
+                        <h3>
+                            Sponsors
+                        </h3>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+            <div class="row">
+                <img class="img-fluid" src="img/brand/sponsor.png">
+            </div>
+            </div>
+        </div>
+    </div>
+    <!-- sponsors_end-->
+
     <!-- speakers_start -->
     <div id="speakers" class="speakers_area">
         <h1 class="horizontal_text d-none d-lg-block">
